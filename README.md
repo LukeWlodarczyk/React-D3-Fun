@@ -1,6 +1,6 @@
 # React-D3
 
-I created some chats while learning React and d3
+Charts created while learning React and d3
 
 ## Technologies
 
